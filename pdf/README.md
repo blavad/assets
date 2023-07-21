@@ -1,32 +1,29 @@
-<h2> Listes documents accessibles</h2>
-<ul>
-    <li><a href='cv/CV-2023.pdf'> CV 2023 <a></li>
-    <li><a href='cv/CV-2020.pdf'> CV 2020 <a></li>
-    <li><a href='projects/index.html'> Projets <a></li>
-    <ul>
-        <li><a href='projects/stage-PollenRobotics.pdf'> Stage <i> Pollen Robotics</i> <a></li>
-        <li><a href='projects/stage-UnivDundee.pdf'> Stage <i> Université de Dundee</i> <a></li>
-        <li><a href='projects/rapport-pfe.pdf'> Projet de fin d'étude <a></li>
-        <li><a href='projects/rapport-coree.pdf'> Echange en Corée du Sud <a></li>
-        <li><a href='projects/proj-alphago.pdf'> AlphaGo Zero <a></li>
-        <li><a href='projects/proj-maddpg.pdf'> MADDPG <a></li>
-        <li><a href='projects/proj-CycleGAN.pdf'> CycleGAN <a></li>
-        <li><a href='projects/proj-wavegan.pdf'> WaveGAN <a></li>
-        <li><a href='projects/proj-cpp.pdf'> Logiciel NN manager <a></li>
-        <li><a href='projects/proj-weRbeer.pdf'> Site web <i>weRbeer</i> <a></li>
-        <li><a href='projects/proj-BDD.pdf'> Base de données <i>weRbeer</i> <a></li>
-        <li><a href='projects/proj-Qlearning_Genetic.pdf'> Q-learning vs Genetic algorithms <a></li>
-        <li><a href='projects/proj-SpaceOfWar.pdf'> SpaceOfWar - Jeu en réseau <a></li>
-        <li><a href='projects/proj-battleship-poo.pdf'> Bataille navale en réseau <a></li>
-        <li><a href='projects/proj-p6.pdf'> Voiture autonome <a></li>
-        <li><a href='projects/proj-TIPNE.pdf'> TIPNE <a></li>
-    </ul>
-    <li><a href='pres/index.html'> Présentations <a></li>
-    <ul>
-        <li><a href='pres/pres-pfe1.pdf'> PFE - Mi-parcours <a></li>
-        <li><a href='pres/pres-pfe2.pdf'> PFE - Final <a></li>
-        <li><a href='pres/pres-stageDundee.pdf'> Stage Université de Dundee <a></li>
-        <li><a href='pres/pres-CycleGAN.pdf'> Papier - CycleGAN <a></li>
-        <li><a href='pres/pres-STResnet.pdf'> Papier - ST-Resnet <a></li>
-    </ul>
-</ul>
+# Available PDFs
+
+- [Resume](cv)
+  - [2023](cv/CV-2023.pdf)
+  - [2020](cv/CV-2020.pdf)
+- [Projects](projects) 
+    - [Intership *INSA Lyon*](projects/stage-PollenRobotics.pdf)
+    - [Intership *Pollen Robotics*](projects/stage-PollenRobotics.pdf)
+    - [Intership *Université de Dundee*](projects/stage-UnivDundee.pdf)
+    - [Projet de fin d'étude](projects/rapport-pfe.pdf)
+    - [Echange en Corée du Sud](projects/rapport-coree.pdf)
+    - [AlphaGo Zero](projects/proj-alphago.pdf)
+    - [MADDPG](projects/proj-maddpg.pdf)
+    - [CycleGAN](projects/proj-CycleGAN.pdf)
+    - [WaveGAN](projects/proj-wavegan.pdf)
+    - [Logiciel NN manager](projects/proj-cpp.pdf)
+    - [Site web *weRbeer*](projects/proj-weRbeer.pdf)
+    - [Base de données *weRbeer](projects/proj-BDD.pdf)
+    - [Q-learning vs Genetic algorithms](projects/proj-Qlearning_Genetic.pdf)
+    - [SpaceOfWar - Jeu en réseau](projects/proj-SpaceOfWar.pdf)
+    - [Bataille navale en réseau](projects/proj-battleship-poo.pdf)
+    - [Voiture autonome](projects/proj-p6.pdf)
+    - [TIPNE](projects/proj-TIPNE.pdf)
+- [Presentations](pres) 
+    - [PFE - Mi-parcours](pres/pres-pfe1.pdf)
+    - [PFE - Final](pres/pres-pfe2.pdf)
+    - [Stage Université de Dundee](pres/pres-stageDundee.pdf)
+    - [Papier - CycleGAN](pres/pres-CycleGAN.pdf)
+    - [Papier - ST-Resnet](pres/pres-STResnet.pdf)
