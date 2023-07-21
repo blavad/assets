@@ -1,0 +1,39 @@
+{
+    "fr": [{
+        "title": "SDMS : An open-source library for POSGs",
+        "authors": "D.Albert, J. Dibangoye",
+        "date": "2021",
+        "img": "img-sdms-h.png",
+        "abstract": "A solver and a library for POSGs.",
+        "url": "",
+        "conference": "JMLR"
+    },
+    {
+        "title": "On continuous-state MDPs in extensive-form",
+        "authors": "J. Arjonilla, D. Albert, J. Dibangoye",
+        "date": "Delayed",
+        "img": "img-sdms-h.png",
+        "abstract": "This paper presents a novel—yet more scalable—alternative, namely serial central planning for simultaneous decentralised execution.",
+        "url": "",
+        "conference": "ICML"
+    }],
+
+    "us": [{
+        "title": "SDMS : An open-source library for POSGs",
+        "authors": "D.Albert, J. Dibangoye",
+        "date": "2021",
+        "img": "img-sdms-h.png",
+        "abstract": "A solver and a library for POSGs.",
+        "url": "",
+        "conference": "JMLR"
+    },
+    {
+        "title": "On continuous-state MDPs in extensive-form",
+        "authors": "J. Arjonilla, D. Albert, J. Dibangoye",
+        "date": "Delayed",
+        "img": "img-sdms-h.png",
+        "abstract": "This paper presents a novel—yet more scalable—alternative, namely serial central planning for simultaneous decentralised execution.",
+        "url": "",
+        "conference": "ICML"
+    }]
+}

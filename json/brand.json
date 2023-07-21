@@ -1,0 +1,44 @@
+{
+    "name": "David Albert",
+    "logo": "bitmoji_dav-50px",
+    "main_img": "photo-dav-md",
+    "logo_alt": "",
+    "brief": {
+        "fr": "<hr/>Entrepreneur, développeur full stack et passionné d'innovation. <br/><br/> Je contribue au développement de projets liés à l'intelligence artificielle <a id='sdms-link' href='https://sdmstudio.github.io//'>SDM'Studio</a> et aux jeux <a id='unboared-link' href='https://unboared.com/'>Unboared</a>.",
+        "us": "<hr/>Entrepreneur, full stack developer and innovation enthusiast. <br/><br/> I contribute to projects in artificial intellifence <a id='sdms-link' href='https://sdmstudio.github.io//'>SDM'Studio</a> and games <a id='unboared-link' href='https://unboared.com/'>Unboared</a>."
+    },
+    "contact": {
+        "adress": "30 rue Jean Broquin",
+        "phone": "+33 7 86 60 19 16",
+        "email": "david.albert@cegetel.net"
+    },
+    "social_media": [{
+            "name": "Mail",
+            "color": "#00000",
+            "text": "david.albert@cegetel.net",
+            "url": "mailto:david.albert@cegetel.net",
+            "fa_icon": "fas fa-envelope"
+        },
+        {
+            "name": "LinkedIn",
+            "color": "#00000",
+            "text": "david-albert",
+            "url": "https://www.linkedin.com/in/david-albert-a767a4160",
+            "fa_icon": "fab fa-linkedin"
+        },
+        {
+            "name": "Github",
+            "color": "#00000",
+            "text": "blavad",
+            "url": "https://github.com/blavad",
+            "fa_icon": "fab fa-github"
+        },
+        {
+            "name": "Docker",
+            "color": "#00000",
+            "text": "blavad",
+            "url": "https://hub.docker.com/u/blavad",
+            "fa_icon": "fab fa-docker"
+        }
+    ]
+}

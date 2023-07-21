@@ -1,0 +1,84 @@
+{
+    "us": [{
+            "id": 0,
+            "name": "Overview",
+            "icon": "fas fa-user-alt",
+            "path": "/"
+        },
+        {
+            "id": 1,
+            "name": "Projects",
+            "icon": "fas fa-folder",
+            "path": "/projects"
+        },
+        {
+            "id": 10,
+            "name": "Unboared",
+            "icon": "fas fa-gamepad",
+            "path": "https://unboared.com/"
+        },
+        {
+            "id": 3,
+            "name": "More",
+            "icon": "",
+            "sub_items": [{
+                    "name": "Resume",
+                    "icon": "fas fa-address-book",
+                    "path": "/assets/pdf/cv/CV-2023.pdf"
+                },
+                {
+                    "id": 5,
+                    "name": "Bidule",
+                    "icon": "fas fa-robot",
+                    "path": "/bidule"
+                },
+                {
+                    "name": "Travels",
+                    "icon": "fas fa-globe-americas",
+                    "path": "/travels"
+                }
+            ]
+        }
+    ],
+    "fr": [{
+            "id": 0,
+            "name": "Profil",
+            "icon": "fas fa-user-alt",
+            "path": "/"
+        },
+        {
+            "id": 1,
+            "name": "Projets",
+            "icon": "fas fa-folder",
+            "path": "/projects"
+        },
+        {
+            "id": 10,
+            "name": "Unboared",
+            "icon": "fas fa-gamepad",
+            "path": "https://unboared.com/"
+        },
+        {
+            "id": 3,
+            "name": "Autre",
+            "icon": "",
+            "sub_items": [{
+                    "name": "CV",
+                    "icon": "fas fa-address-book",
+                    "path": "/assets/pdf/cv/CV-2023.pdf"
+                },
+                {
+                    "id": 5,
+                    "name": "Bidule",
+                    "icon": "fas fa-robot",
+                    "path": "/bidule"
+                },
+                {
+                    "name": "Voyages",
+                    "icon": "fas fa-globe-americas",
+                    "path": "/travels"
+                }
+            ]
+        }
+    ]
+}
