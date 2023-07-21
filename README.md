@@ -1,0 +1,1 @@
+# Assets used by David's website
