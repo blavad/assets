@@ -1,7 +1,7 @@
 <h2> Listes documents accessibles</h2>
 <ul>
-    <li><a href='cv/CV-2020.pdf'> CV 2023 <a></li>
-    <li><a href='cv/CV-2023.pdf'> CV 2020 <a></li>
+    <li><a href='cv/CV-2023.pdf'> CV 2023 <a></li>
+    <li><a href='cv/CV-2020.pdf'> CV 2020 <a></li>
     <li><a href='projects/index.html'> Projets <a></li>
     <ul>
         <li><a href='projects/stage-PollenRobotics.pdf'> Stage <i> Pollen Robotics</i> <a></li>
